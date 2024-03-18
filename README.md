@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-- Backend developer from Brazil
+- Backend developer
 - 📫 How to reach me **caio.godoy.vg@gmail.com**
 - Connect with me:
   - <a href="https://www.linkedin.com/in/caiogodoyy/">Linkedin</a>
